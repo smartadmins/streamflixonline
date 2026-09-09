@@ -15,7 +15,7 @@ A production-style video streaming platform built with modern AWS services and D
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](docs/architecture/system-architecture.md)
+![Architecture Diagram](docs/architecture/system-architecture.md.png)
 
 ### Core Services
 
